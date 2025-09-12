@@ -1,5 +1,5 @@
-# ml-ai-fundamentals
-Notes, exercises, and projects from Sprints x Microsoft ML &amp; AI Summer Camp 2025.
+# ML & AI Fundamentals
+This repository contains **my personal notes, exercises, and projects** from learning Machine Learning & AI fundamentals.
 
 
 # ML & AI Fundamentals
