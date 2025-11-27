@@ -1,0 +1,21 @@
+# numpy universal functions
+
+# function operate element-wise on array (work on each element)
+# mathematical:  np.log(), np.sqrt(), np.exp():
+# benefits: faster and more efficent more than looping over array elements
+
+import numpy as np 
+
+a = np.array([1, 2, 3, 4, 5])
+
+sqrt_array = np.sqrt(a)
+exp_array = np.exp(a)
+log_array = np.log(a)
+
+print("oruginal matrix:", a)
+print("sqrt_array:", sqrt_array)
+print("exp_array:", exp_array)
+print("lig_array:", log_array)
+
+
+print("1"+"1")

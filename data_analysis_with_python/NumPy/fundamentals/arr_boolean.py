@@ -13,7 +13,7 @@ arr = np.array([5, 10, 15, 20, 25])
 # Simple condition: values > 10
 mask = arr > 10
 print("Boolean mask:", mask)        # [False False  True  True  True]
-print("Filtered:", arr[mask])       # [15 20 25]
+print("Filtered:", arr[mask])       # [15 20 25]  , keep only the true ones
 
 # Combine conditions (AND, OR, NOT)
 print("arr[(arr > 10) & (arr < 25)] =", arr[(arr > 10) & (arr < 25)])   # between 10 and 25
